@@ -4,5 +4,10 @@
     <string name="app_name">RoadTrip</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="search_message">Where are you headed?</string>
+    <string name="search_btn">Search</string>
+    <string name="time">2h 14m</string>
+    <string name="destination">New York</string>
+    <string name="title_activity_music">MusicActivity</string>
 
 </resources>
